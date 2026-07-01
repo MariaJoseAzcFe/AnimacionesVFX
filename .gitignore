@@ -1,0 +1,4 @@
+*.blend1
+
+# Carpetas de caché de Python
+__pycache__/
